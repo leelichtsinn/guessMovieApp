@@ -6,3 +6,4 @@
 ## Dependencies
 1. Node.js >= v6
 2. Express.js
+3. JSON Server
